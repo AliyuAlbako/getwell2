@@ -1,2 +1,2 @@
-# getwell2
+# getwell
 Getwell Landing Page
